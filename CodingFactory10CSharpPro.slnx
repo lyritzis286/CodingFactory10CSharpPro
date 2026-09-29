@@ -2,4 +2,5 @@
   <Project Path="DataTypes/DataTypes.csproj" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="NumberRead/NumberRead.csproj" />
+  <Project Path="PrintingApp/PrintingApp.csproj" />
 </Solution>
