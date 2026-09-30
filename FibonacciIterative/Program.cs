@@ -27,6 +27,8 @@
 
         public static int FibonacciWithArray(int n)
         {
+            if(n <= 0) return 0;
+            if (n == 1) return 1;
             int[] arr = new int[n + 1];
             arr[0] = 0;
             arr[1] = 1;
@@ -37,6 +39,13 @@
             }
 
             return arr[n];
+        }
+
+        public static int FibonacciRecursive(int n)
+        {
+            if (n <= 0) return 0;
+            if (n == 1) return 1;
+            return FibonacciRecursive(n - 1) + FibonacciRecursive(n - 2);
         }
     }
 }

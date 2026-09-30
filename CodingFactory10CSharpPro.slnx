@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="ArraysApp/ArraysApp.csproj" Id="915a5c0f-b7ae-4d8c-911f-e2f541da6d0d" />
   <Project Path="CitiesForApp/CitiesForApp.csproj" Id="e6358f35-c559-48ab-a8a4-e32ca829298d" />
   <Project Path="DataTypes/DataTypes.csproj" />
   <Project Path="DoWhileApp/DoWhileApp.csproj" Id="079911d5-e9d9-4a8a-9b75-9c93ecc15f52" />
