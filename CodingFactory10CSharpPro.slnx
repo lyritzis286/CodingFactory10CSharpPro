@@ -4,7 +4,9 @@
   <Project Path="IfUseCases/IfUseCases.csproj" Id="2926462f-f642-46d0-872a-807ecaddd96d" />
   <Project Path="KilometersApp/KilometersApp.csproj" />
   <Project Path="NumberRead/NumberRead.csproj" />
+  <Project Path="PositivesCount/PositivesCount.csproj" Id="debcef18-acd9-48c5-931e-00167c7f5dc1" />
   <Project Path="PrintingApp/PrintingApp.csproj" />
   <Project Path="ProductVat/ProductVat.csproj" />
   <Project Path="SwitchApp/SwitchApp.csproj" Id="fa86d637-5f25-4780-a71e-173c0880cd85" />
+  <Project Path="WhileApp/WhileApp.csproj" Id="67f74bc9-e5cc-4fcb-af18-a69b2a922791" />
 </Solution>
