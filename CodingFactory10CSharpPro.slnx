@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="DataTypes/DataTypes.csproj" />
+  <Project Path="FormatExceptionApp/FormatExceptionApp.csproj" Id="96bd24ac-5b96-4771-9cc2-8a714ff6a94d" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="IfUseCases/IfUseCases.csproj" Id="2926462f-f642-46d0-872a-807ecaddd96d" />
   <Project Path="KilometersApp/KilometersApp.csproj" />
