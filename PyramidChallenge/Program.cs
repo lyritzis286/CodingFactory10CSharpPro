@@ -17,7 +17,7 @@
         {
             // για καθε νεα γραμμη εχουμε μειον 1 κενο και +2 αστερακια
             Console.WriteLine("enter heigth of pyramid");
-            int height = int.Parse(Console.ReadLine());
+            int height = int.Parse(Console.ReadLine()!);
 
             for (int i = 1; i <= height; i++)
             {
