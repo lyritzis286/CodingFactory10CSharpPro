@@ -17,6 +17,7 @@
   <Project Path="ProductVat/ProductVat.csproj" />
   <Project Path="ProductWhileApp/ProductWhileApp.csproj" Id="a7b0489b-f8b1-4f4c-bddc-2edf68c926b1" />
   <Project Path="PyramidChallenge/PyramidChallenge.csproj" Id="0106fcef-a48a-4fac-8eb4-65aeb78d84bd" />
+  <Project Path="StringsApp/StringsApp.csproj" Id="c617a65a-120e-42b7-8def-30c5141ad8c1" />
   <Project Path="SwapApp/SwapApp.csproj" Id="f4757811-f0fb-4b6d-a353-e60a25fee4c2" />
   <Project Path="SwitchApp/SwitchApp.csproj" Id="fa86d637-5f25-4780-a71e-173c0880cd85" />
   <Project Path="WhileApp/WhileApp.csproj" Id="67f74bc9-e5cc-4fcb-af18-a69b2a922791" />
