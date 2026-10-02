@@ -12,6 +12,7 @@
   <Project Path="LinqArrays/LinqArrays.csproj" Id="7c0f3c89-d423-4a9b-aeb6-2b8ffa3e0cc5" />
   <Project Path="NullableStringApp/NullableStringApp.csproj" Id="34133a53-15d4-42e9-8170-c1cf754b41b2" />
   <Project Path="NumberRead/NumberRead.csproj" />
+  <Project Path="OOApp/OOApp.csproj" Id="713fb035-be52-4c31-8577-eb0c456851ce" />
   <Project Path="PositivesCount/PositivesCount.csproj" Id="debcef18-acd9-48c5-931e-00167c7f5dc1" />
   <Project Path="PowerApp/PowerApp.csproj" Id="dca87891-20e5-4bad-a628-bf9d8ce9f18b" />
   <Project Path="PrintingApp/PrintingApp.csproj" />
