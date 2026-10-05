@@ -14,6 +14,7 @@
   <Project Path="NullableStringApp/NullableStringApp.csproj" Id="34133a53-15d4-42e9-8170-c1cf754b41b2" />
   <Project Path="NumberRead/NumberRead.csproj" />
   <Project Path="OOApp/OOApp.csproj" Id="713fb035-be52-4c31-8577-eb0c456851ce" />
+  <Project Path="OperatorOverloading/OperatorOverloading.csproj" Id="96eda220-8da8-4f2e-8fe3-eb531491dfc3" />
   <Project Path="PositivesCount/PositivesCount.csproj" Id="debcef18-acd9-48c5-931e-00167c7f5dc1" />
   <Project Path="PowerApp/PowerApp.csproj" Id="dca87891-20e5-4bad-a628-bf9d8ce9f18b" />
   <Project Path="PrintingApp/PrintingApp.csproj" />
