@@ -50,10 +50,7 @@ internal class Program
         string token = list[1];
         Console.WriteLine($"List count : {list.Count}");
 
-        foreach(var item in list)
-        {
-            Console.WriteLine(item);
-        }
+        list.ForEach(item => Console.WriteLine(item));
 
 
     }
